@@ -379,6 +379,7 @@ p {
 
 .service-menu-area ul li:nth-child(1) {
     margin-left: 0.5625rem;
+    
 }
 
 .service-menu-area ul li:nth-child(2) {
@@ -706,7 +707,8 @@ p {
 
     /* service */
     .service-item-wrap .tab-content img {
-        width: 100%;
+       width: 100%;
+       
     }
 
     .service-menu-area ul li a {
@@ -734,6 +736,7 @@ p {
         margin-bottom: .375rem;
     }
 }
+
 
 @media (max-width:991px) {
 
@@ -785,6 +788,7 @@ p {
     .room-item .room-content {
         padding: 2rem 1.875rem;
     }
+    
 
 }
 
@@ -809,7 +813,10 @@ p {
         font-size: .8125rem;
         line-height: 1.5rem;
     }
-
+  .respo{
+    width: 100%;
+   
+  }
     /* blog */
     .blog-content {
         margin: 0;
