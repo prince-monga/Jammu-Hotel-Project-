@@ -7,6 +7,12 @@
 <p>
     Explore the project live: <a href="https://prince-monga.github.io/Jammu-Hotel-Project-/index.html" target="_blank">Jammu Hotel Project</a>.
 </p>
+## SlideShare Presentation
+<br>
+<a href="https://www.slideshare.net/slideshow/embed_code/key/NhOOu2MkuuvE9?hostedIn=slideshare&page=upload">
+  <img src="https://github.com/prince-monga/Jammu-Hotel-Project-/blob/main/By%20Prince%20Monga.jpg?raw=true" alt="View my SlideShare Presentation" width="400" />
+</a>
+
 
 <h2>📖 About the Project</h2>
 <p>
